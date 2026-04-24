@@ -12,7 +12,7 @@ Not a dream. A plan.
 
 | Area | Technologies |
 |------|-------------|
-| Frontend | HTML, CSS, JavaScript, React |
+| Frontend | HTML, CSS, Bootstrap5, JavaScript, React |
 | Backend | PHP, Laravel, Python |
 | Database | MySQL, SQL |
 | OOP | Python, PHP |
