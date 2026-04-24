@@ -2,7 +2,7 @@
 
 > *"Every expert was once a beginner. The difference is they didn't stop."*
 
-I'm a developer from **Morocco 🇲🇦**, currently studying at OFPPT while self-studying every single day — building the foundation to one day work at the companies that shape the world: **Apple, Meta, Nvidia.**
+I'm a developer from **Morocco 🇲🇦**, currently studying at OFPPT while self-studying every single day — building the foundation to one day work at the companies that shape the world: **Apple, Meta, Nvidia....**
 
 Not a dream. A plan.
 
